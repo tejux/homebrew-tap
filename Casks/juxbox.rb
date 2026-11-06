@@ -5,7 +5,7 @@ cask "juxbox" do
   url "https://github.com/tejux/juxbox-releases/releases/download/v#{version}/Juxbox-#{version}.dmg"
   name "Juxbox"
   desc "Local-first developer utility workbench"
-  homepage "https://github.com/tejux/juxbox"
+  homepage "https://github.com/tejux/juxbox-releases"
 
   livecheck do
     url :stable
